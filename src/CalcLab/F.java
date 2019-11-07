@@ -125,7 +125,7 @@ public class F extends JFrame {
 	}
 	
 	public F() {
-		getContentPane().setBackground(Color.BLACK);
+		getContentPane().setBackground(Color.PINK);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 419, 315);
 		getContentPane().setLayout(null);
